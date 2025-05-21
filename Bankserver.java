@@ -1,4 +1,4 @@
-gitpackage task4.java;
+package task4.java;
 
 import java.util.Scanner;
 
